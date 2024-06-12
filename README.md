@@ -1,4 +1,4 @@
-Quiz de Fatos Históricos 
+# Quiz de Fatos Históricos 
 
 A proposta desse projeto é criar uma aplicação de quiz de fatos históricos em JavaScript. Dessa forma você poderá colocar em prática os seguintes conceitos:
 
