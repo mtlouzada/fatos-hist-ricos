@@ -13,7 +13,18 @@ let turingQuestions = [
     {id: 12, ask: "Em que ano, Turingo perdeu seu grande amigo Christopher Collan Morcom, que morreu de de complicações da tuberculose bovina, contraída após beber o leite de vaca infectado alguns anos antes.", answer: 1930},
     {id: 13, ask: "3 anos após a morte de seu grande amigo, Turing mandou uma carta para mãe de Morcom, mostrando que seu relacionanmento com ela contuniou muito depois da morte dele. Em que ano essa carta foi enviada?", answer: 1933},
     {id: 14, ask: "Em cambridge, Turing foi agraciado com honras de primeira classe em matemática. Em que ano isso ocorreu?", answer: 1934},
-    {id: 15, ask: "Com apenas 22 anos, foi eleito fellow do King's College com base em uma dissertação na qual provou o teorema central do limite. Fato desconhecido pelo comitê anos depois. Em que ano ele foi eleito fellow?", answer: 1935}
+    {id: 15, ask: "Com apenas 22 anos, foi eleito fellow do King's College com base em uma dissertação na qual provou o teorema central do limite. Fato desconhecido pelo comitê anos depois. Em que ano ele foi eleito fellow?", answer: 1935},
+    {id: 16, ask: "O teorema de central do limite ja havia sido descoberto sem o conhecimento de Turing, por Jarl Waldemar Lindeberg, que realizou esse feito em qual ano?", answer: 1922},
+    {id: 17, ask: "Em que ano Turing publicou seu artigo 'Sobre números computáveis', com uma Aplicação ao Entscheidungsproblem'.", answer: 1936},
+    {id: 18, ask: "Em setembro de qual ano, Turing passou a maior parte do tempo estudando na igreja da Universidade de Princeton?", answer: 1936},
+    {id: 19, ask: "Em julho de qual ano, Turing parou de passar a maior parte do seu tempo, estudando na igreja da Universidade de Princeton?", answer: 1938},
+    {id: 20, ask: "Em que ano ele obteve seu PhD no Departamento de Matemática de Princeton?", answer: 1938},
+    {id: 21, ask: "Em qual ano o matemático hungaro John von Neumann queria contratá-lo como seu assistente de pós-doutorado?", answer: 1938},
+    {id: 22, ask: "Quando Turing tinha 39 anos,  ele se voltou para a biologia matemática, onde após um ano, finalmente publicou sua obra-prima 'A Base Química da Morfogênese' em janeiro de..?", answer: 1951},
+    {id: 23, ask: "Em ano Turing propôs casamento a Joan Clarke, colega do Hut 8, matemática e criptoanalista?", answer: 1941},
+    {},
+    {id: 30, ask: "Em que ano, Turing foi encontrado morto em seu quarto?", answer: 1954}
+
 ];
 
 export default turingQuestions;
