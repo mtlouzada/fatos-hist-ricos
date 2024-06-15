@@ -22,9 +22,13 @@ let turingQuestions = [
     {id: 21, ask: "Em qual ano o matemático hungaro John von Neumann queria contratá-lo como seu assistente de pós-doutorado?", answer: 1938},
     {id: 22, ask: "Quando Turing tinha 39 anos,  ele se voltou para a biologia matemática, onde após um ano, finalmente publicou sua obra-prima 'A Base Química da Morfogênese' em janeiro de..?", answer: 1951},
     {id: 23, ask: "Em ano Turing propôs casamento a Joan Clarke, colega do Hut 8, matemática e criptoanalista?", answer: 1941},
-    {},
+    {id: 24, ask: "Em 19 de fevereiro de qual ano, Turing apresentou um artigo que foi o primeiro projeto detalhado de um computador capaz de armazenar um programa?", answer: 1946},
+    {id: 25, ask: "No final de qual ano, Turing voltou a Cambridge para um ano sabático, durante o qual produziu um trabalho seminal sobre Máquinas Inteligentes que não foi publicado em sua vida?", answer: 1947},
+    {id: 26, ask: "O computador executou seu primeiro programa em 10 de maio de qual ano?", answer: 1950},
+    {id: 27, ask: "Em que ano Turing foi nomeado reader no Departamento de Matemática da Universidade Victoria de Manchester?", answer: 1948},
+    {id: 28, ask: "Em que ano Turing abordou o problema da inteligência artificial e propôs um experimento que ficou conhecido como teste de Turing, uma tentativa de definir um padrão para uma máquina ser chamada de 'inteligente'", answer: 1950},
+    {id: 29, ask: "Em que ano Turing, trabalhando com seu ex-colega de graduação, D. G. Champernowne, começou a escrever um programa de xadrez para um computador que ainda não existia?", answer: 1948},
     {id: 30, ask: "Em que ano, Turing foi encontrado morto em seu quarto?", answer: 1954}
-
 ];
 
 export default turingQuestions;
