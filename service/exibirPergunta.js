@@ -1,8 +1,9 @@
-import selecionaPerguntasAleatorias from "../service/arrayAleatorio.js";
+import readlineSync from 'readline-sync';
 
 const exibirPerguntas = (pergunta, index) => {
     console.log('\n${index + 1}: ${pergunta.pergunta}');
-    return selectQuestions = randowQuestions.splice(0, 10); 
+    const respostaUsuario = readlineSync.question('Digite a resposta (ano): '); 
+    return respostaUsuario.trim();
 }
 
-export default getselectQuestions;
+export default exibirPerguntas;
