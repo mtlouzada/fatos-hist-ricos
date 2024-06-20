@@ -1,5 +1,5 @@
 import arrayPerguntas from "./data/data.js";
-import getselectQuestions from "./service/showquest.js";
+import entradaDados from 'readline-sync';
 
 const userName = require('readline-sync');
 
