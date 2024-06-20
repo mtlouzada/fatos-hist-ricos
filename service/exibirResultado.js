@@ -15,8 +15,8 @@ const exibirResultado = (pontuacaoFinal, nomeJogador) => {
         mensagem = "Você é diferenciado! Parabéns!!";
     }
 
-    console.log('\nJogador(a): ${nomeJogador}');
-    console.log('\nPontuação final: ${pontuacaoFinal} acertos.');
+    console.log(`\nJogador(a): ${nomeJogador}`);
+    console.log(`\nPontuação final: ${pontuacaoFinal} acertos.`);
     console.log(mensagem);
 }
 

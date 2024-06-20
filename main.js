@@ -3,6 +3,7 @@ import selecionaPerguntasAleatorias from "./service/arrayAleatorio.js";
 import exibirPerguntas from "./service/exibirPergunta.js";
 import validarResposta from "./service/validarResposta.js";
 import entradaDados from "readline-sync";
+import exibirResultado from "./service/exibirResultado.js";
 
     const startQuiz = () => {
         console.log("\n------------------WELCOME TO------------------\n");
@@ -27,6 +28,6 @@ import entradaDados from "readline-sync";
             }
         });
 
-        exibirResultado(pontuacaoFinal, nomeJogador);
+        console.log(exibirResultado(pontuacaoFinal, nomeJogador));
     }
 startQuiz();
