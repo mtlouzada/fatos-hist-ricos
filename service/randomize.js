@@ -1,7 +1,8 @@
-import turingQuestions from "../data/data.js";
+import arrayPerguntas from "../data/data.js";
 
-const randowQuestions = () => {
-    return turingQuestions.sort(() => Math.random() - 0.5);
+const selecionaPerguntasAleatorias = (questoes) => {
+    const perguntasAleatorias = arrayPerguntas.sort(() => Math.random() - 0.5);
+    return perguntasAleatorias.splice(0, 10);
 }
 
-export default randowQuestions;
+export default selecionaPerguntasAleatorias;

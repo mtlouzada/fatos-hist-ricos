@@ -1,5 +1,5 @@
-import turingQuestions from "./data/data.js";
-import getselectQuestions from "./service/selecting.js";
+import arrayPerguntas from "./data/data.js";
+import getselectQuestions from "./service/showquest.js";
 
 const userName = require('readline-sync');
 

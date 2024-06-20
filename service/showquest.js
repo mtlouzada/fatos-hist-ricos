@@ -1,4 +1,4 @@
-import randowQuestions from "../service/randomize.js";
+import randowQuestions from "./randomize.js";
 
 const getselectQuestions = () => {
     return selectQuestions = randowQuestions.splice(0, 10); 
