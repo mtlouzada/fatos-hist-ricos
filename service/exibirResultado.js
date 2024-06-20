@@ -1,5 +1,5 @@
 import entradaDados from 'readline-sync';
-import validarResposta from './validarResposta';
+import validarResposta from '../service/validarResposta.js';
 
 
 const exibirResultado = (pontuacaoFinal, nomeJogador) => {
