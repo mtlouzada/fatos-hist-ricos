@@ -10,7 +10,7 @@ import entradaDados from "readline-sync";
 
         const nomeJogador = entradaDados.question('Digite o seu nome: ');
 
-        console.log( nomeJogador + "\n você está no Turing Challenger! Serão selecionas 10 questões aleatórias para ver se você manja mesmo da vida do pai da computação. PRESS ENTER to start...");
+        console.log( "\n Bem-vindo(a) ao Turing Challenger! Responda as questões a seguir");
 
         let pontuacaoFinal = 0;
 
