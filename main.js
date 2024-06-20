@@ -7,7 +7,16 @@ import exibirResultado from "./service/exibirResultado.js";
 
     const startQuiz = () => {
         console.log("\n------------------WELCOME TO------------------\n");
-        console.log("TURING CHALLENGER");
+        console.log(`                                    
+  *   )                             
+ )  /(   (   (   (          (  (   
+ ( )(_)) ))\  )(  )\   (     )\))(  
+(_(_()) /((_)(()\((_)  )\ ) ((_))\  
+|_   _|(_))(  ((_)(_) _(_/(  (()(_) 
+  | |  | || || '_|| || ' \))/ _. |  
+  |_|   \ _,_||_|  |_||_||_| \__, |  
+                            |___/   
+`);
 
         const nomeJogador = entradaDados.question('Digite o seu nome: ');
 
