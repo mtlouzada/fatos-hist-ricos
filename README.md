@@ -14,25 +14,33 @@ This quiz is about Alan Tuting career and life. Concepts Used:
 
 ### 🚀 Getting started:
 
-To run this project, make sure certify you have installed in your dev enviroment:
-Node
-Git
-readline-Sync
+To run this project, make sure you have this tools installed in your development environment:
 
-And run 
+* Node
+```bash
+npm install
+```
 
-#### Prerequisites:
+* Readline-Sync
+```bash
+npm install readline-sync
+```
 
-text exemple
+#### Starting:
 
-#### Starting
+To start this project, just follow these 2 steps:
 
-How to start your project
+1° Open the correct project folder
 
 ```bash
 cd project-name
-npm some-command-to-run
 ```
+2° Use Node to run the application
+
+```bash
+node main.js
+```
+
 
 ### How to Contribute? 📫
 If you want to contribute, clone this repo, create your work branch and get your hands dirty!
@@ -47,15 +55,14 @@ git checkout -b feature/NAME
 
 At the end, open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
 
-
-### License 📃
-This project is under [MIT](https://github.com/mtlouzada/turing-Challenger/blob/main/LICENSE) license
-
-### Docs that might help
+#### Docs that might help:
 
 [📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
 
 [💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+
+### License 📃
+This project is under [MIT](https://github.com/mtlouzada/turing-Challenger/blob/main/LICENSE) license
 
 ### Developed by 🧑🏻‍💻
 #### Matheus Louzada [LinkedIn](https://www.linkedin.com/in/matheus-louzadaa)
