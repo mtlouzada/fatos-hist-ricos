@@ -10,10 +10,52 @@ _Read this in other languages:_ 🇧🇷 [_Português_](./translations/README-pt
 This quiz is about Alan Tuting career and life. Concepts Used:
 
 ### Build with:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🚀 Getting started:
+
+To run this project, make sure certify you have installed in your dev enviroment:
+Node
+Git
+readline-Sync
+
+And run 
+
+#### Prerequisites:
+
+text exemple
+
+#### Starting
+
+How to start your project
+
+```bash
+cd project-name
+npm some-command-to-run
+```
+
+### How to Contribute? 📫
+If you want to contribute, clone this repo, create your work branch and get your hands dirty!
+
+```bash
+git clone https://github.com/mtlouzada/turing-Challenger.git
+```
+
+```bash
+git checkout -b feature/NAME
+```
+
+At the end, open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
+
 
 ### License 📃
 This project is under [MIT](https://github.com/mtlouzada/turing-Challenger/blob/main/LICENSE) license
+
+### Docs that might help
+
+[📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
+
+[💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 
 ### Developed by 🧑🏻‍💻
 #### Matheus Louzada [LinkedIn](https://www.linkedin.com/in/matheus-louzadaa)
